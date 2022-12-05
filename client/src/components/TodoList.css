@@ -1,0 +1,8 @@
+.TodoList {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    height: 100%;
+    background-color: green;
+    overflow: scroll;
+}
